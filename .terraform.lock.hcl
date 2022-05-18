@@ -19,3 +19,10 @@ provider "registry.terraform.io/hashicorp/azurerm" {
     "zh:eecb9fd0e7509c7fd4763e546ef0933f125770cbab2b46152416e23d5ec9dd53",
   ]
 }
+
+provider "registry.terraform.io/hashicorp/azurerm3" {
+  version = "3.5.0"
+  hashes = [
+    "h1:bAoxzsP6GW7BdUJByc/2n6ohmxBb+Oil1D7AE72y5hg=",
+  ]
+}
